@@ -1,1 +1,4 @@
 # LocationManagerDemo
+这是一个用于验证Android设备调用网络定位（LocationManager.NETWORK_PROVIDER）功能的demo app
+
+如果LocationManager.NETWORK_PROVIDER可用Log中会返回true,否则为false
